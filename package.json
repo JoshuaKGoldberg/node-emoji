@@ -58,7 +58,7 @@
     "*": "prettier --ignore-unknown --write"
   },
   "dependencies": {
-    "@sindresorhus/is": "^6.0.0",
+    "@sindresorhus/is": "^4.6.0",
     "char-regex": "^2.0.0",
     "emojilib": "^2.4.0",
     "skin-tone": "^2.0.0"
